@@ -1,0 +1,7 @@
+#Fri Jun 02 19:00:25 KST 2017
+base.0=/Users/proMACBOOK/Downloads/Timer/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_5df36211eb69196708ebfd36127881b747566b56
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/proMACBOOK/Downloads/Timer/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_5723966d4db4646750472016b513c010dd66a590/classes.dex
+base.1=/Users/proMACBOOK/Downloads/Timer/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_5723966d4db4646750472016b513c010dd66a590
+file.0=/Users/proMACBOOK/Downloads/Timer/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_5df36211eb69196708ebfd36127881b747566b56/classes.dex

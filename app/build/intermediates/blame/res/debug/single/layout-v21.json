@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/proMACBOOK/Downloads/Timer/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/proMACBOOK/.android/build-cache/d238fbae411f1ec3aef4fed6d9b9fa6f498a0f00/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/proMACBOOK/Downloads/Timer/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/proMACBOOK/.android/build-cache/d238fbae411f1ec3aef4fed6d9b9fa6f498a0f00/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/proMACBOOK/Downloads/Timer/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/proMACBOOK/.android/build-cache/d238fbae411f1ec3aef4fed6d9b9fa6f498a0f00/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/proMACBOOK/Downloads/Timer/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/proMACBOOK/.android/build-cache/d238fbae411f1ec3aef4fed6d9b9fa6f498a0f00/output/res/layout-v21/notification_action.xml"
+    }
+]
